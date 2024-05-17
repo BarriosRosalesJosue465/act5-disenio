@@ -12,13 +12,13 @@ class _SliverTabBarState extends State<SliverTabBar>
   TabController? tabController;
   int index = 0;
   String image =
-      "https://raw.githubusercontent.com/JesusRafaelCanoFlores5A/Img_FlutterFlow_IOS_6J/main/Act12NavBar_FlutterFlow/banner-comex-app.jpg";
+      "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/marcket.jpg";
 
   List<String> miImages = [
-    "https://raw.githubusercontent.com/JesusRafaelCanoFlores5A/Img_FlutterFlow_IOS_6J/main/Act12NavBar_FlutterFlow/banner-comex-app.jpg",
-    "https://raw.githubusercontent.com/JesusRafaelCanoFlores5A/Img_FlutterFlow_IOS_6J/main/Act13GridView_FluttewFlow_Cano/Amor.jpg",
-    "https://raw.githubusercontent.com/JesusRafaelCanoFlores5A/Img_FlutterFlow_IOS_6J/main/Act12NavBar_FlutterFlow/Carrito.png",
-    "https://raw.githubusercontent.com/JesusRafaelCanoFlores5A/Img_FlutterFlow_IOS_6J/main/Act12NavBar_FlutterFlow/Ubicación.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/marcket.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/producto5.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/descuentos.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/distribuicion.jpg",
   ];
 
   void _tabListener() {
@@ -53,7 +53,7 @@ class _SliverTabBarState extends State<SliverTabBar>
             expandedHeight: 350.0,
             flexibleSpace: FlexibleSpaceBar(
                 title: const Text(
-                  "Comex",
+                  "",
                   style: TextStyle(
                       fontSize: 25,
                       color: Color(0xff100b2b),
@@ -67,7 +67,7 @@ class _SliverTabBarState extends State<SliverTabBar>
           pinned: true,
           primary: false,
           elevation: 8.0,
-          backgroundColor: const Color(0xff48a3ed),
+          backgroundColor: const Color(0xffe2ed48),
           title: Align(
             alignment: AlignmentDirectional.center,
             child: TabBar(
@@ -80,13 +80,13 @@ class _SliverTabBarState extends State<SliverTabBar>
                   text: "Inicio",
                 ),
                 Tab(
-                  text: "Colores",
+                  text: "productos",
                 ),
                 Tab(
-                  text: "Carrito",
+                  text: "descuentos",
                 ),
                 Tab(
-                  text: "Nosotros",
+                  text: "distribucion",
                 ),
               ],
             ),
@@ -101,13 +101,13 @@ class _SliverTabBarState extends State<SliverTabBar>
                   controller: tabController,
                   children: const [
                     Text(
-                        "Jesús Rafael Cano Flores\nBienvenido a Comex\n21308051280440"),
+                        "Barrios rosales josue gustavo\nBienvenido a Sabritas\n21308051280438"),
                     Text(
-                        "Jesús Rafael Cano Flores\nColores de Comex\n21308051280440"),
+                        "Barrios rosales josue gustavo\nBienvenido a Sabritas\n21308051280438"),
                     Text(
-                        "Jesús Rafael Cano Flores\nNo tienes artículos en tu carrito\n21308051280440"),
+                        "Barrios rosales josue gustavo\nBienvenido a Sabritas\n21308051280438"),
                     Text(
-                        "Jesús Rafael Cano Flores\nNosotros somos Comex\n21308051280440"),
+                        "Barrios rosales josue gustavo\nNosotros somos Sabritas\n21308051280438"),
                   ],
                 )),
           ),

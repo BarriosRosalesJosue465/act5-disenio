@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Jesús Cano Flores",
+      title: "Barrios rosales josue gustavo",
       home: Scaffold(body: SliverTabBar()),
     );
   }
