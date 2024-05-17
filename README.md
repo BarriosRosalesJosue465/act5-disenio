@@ -19,9 +19,13 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Resultados
-![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/da62beed-3eff-4ba8-a764-072ddf227b7d)
-![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/7c335451-46a3-4c75-b197-7db70a4eccd3)
-![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/fc230b4e-480a-4b9b-a2a0-c57779d63a53)
-![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/a6173e95-2f83-47f7-b8bd-b9b8a455d9fe)
+![image](https://github.com/BarriosRosalesJosue465/act5-disenio/assets/143548449/9b5eeb6d-8997-45f8-a012-f775c59b7d47)
+![image](https://github.com/BarriosRosalesJosue465/act5-disenio/assets/143548449/c14e631f-32ae-48e3-b0c3-cdeedd258127)
+![image](https://github.com/BarriosRosalesJosue465/act5-disenio/assets/143548449/7d7c24af-b605-4fb3-b4ed-f9eeb27e17d6)
+![image](https://github.com/BarriosRosalesJosue465/act5-disenio/assets/143548449/9e044aca-792a-4c47-bca4-ab7bb29fdd96)
+
+
+
+
 
 
